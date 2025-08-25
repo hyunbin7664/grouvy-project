@@ -97,7 +97,7 @@
                 <div class="col-12">
                     <div class="card p-3">
                         <h6 class="mb-1 fw-bold">
-                            NOTICE <span class="text-muted ms-2">[공지] kkkk</span>
+                            NOTICE <span class="text-muted ms-2">[공지] 알립니다.</span>
                         </h6>
                     </div>
                 </div>
